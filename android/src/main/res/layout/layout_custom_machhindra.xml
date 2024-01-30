@@ -95,7 +95,7 @@
                 android:layout_marginRight="@dimen/base_margin_half"
                 android:src="@drawable/ic_decline"
                 app:tint="@android:color/white"
-                />
+               />
 
             <TextView
                 android:id="@+id/tvDecline"
@@ -129,7 +129,7 @@
                 android:layout_marginRight="@dimen/base_margin_half"
                 android:src="@drawable/ic_accept"
                 app:tint="@android:color/white"
-                />
+                 />
 
             <TextView
                 android:id="@+id/tvAccept"
